@@ -221,10 +221,4 @@ print(f"Predicted House Price: ${price * 100_000:,.0f}")
 
 ## 👤 Author
 
-**SyntecxHub ML Internship**
-Domain: Machine Learning | Project: 1
-> *"Create | Think | Solve"*
-
----
-
-*Feel free to extend this project with Ridge/Lasso Regression, Random Forest, or XGBoost for improved accuracy!*
+**Deepak Kumar Kar**
